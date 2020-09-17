@@ -12,15 +12,15 @@ A consumer will reach their fitness goals quicker when they track their workout 
 
 <h2>Components</h2>
 
-JavaScript | Node.JS | Express | Inquirer | MySQL
+JavaScript | Express | Mongo
 
 <br>
 
 <h2>Install Process</h2>
 
-* npm install inquirer
-* npm install express
-* npm install mysql
+* npm install
+* npm run seed
+* npm start
 
 
 <h3 align="right"><a href="https://github.com/dylangough/Fitness-Tracker">Github Link</a></h3>
